@@ -1,0 +1,23 @@
+{
+  "name": "hello-sgc",
+  "version": "1.0.1",
+  "description": "",
+  "main": "./dist/main.js",
+  "scripts": {
+    "build": "npx webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zlylm/webpackDemo1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zlylm/webpackDemo1/issues"
+  },
+  "homepage": "https://github.com/zlylm/webpackDemo1#readme",
+  "dependencies": {
+    "webpack": "^4.39.1",
+    "webpack-cli": "^3.3.6"
+  }
+}
